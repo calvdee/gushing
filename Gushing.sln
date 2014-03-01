@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gushing", "Gushing\Gushing.csproj", "{81AF1CFD-04D0-4D5A-B8D9-B84FB5488552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gushing.SignalR", "Gushing.SignalR\Gushing.SignalR.csproj", "{69957CFD-C4D8-44F7-AC35-ADDC4A8597E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gushing.Tests", "Gushing.Tests\Gushing.Tests.csproj", "{C80A53C5-0370-4D0F-B438-7AD371B1308E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://bs:8080/tfs/internalprojects
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Gushing\\Gushing.csproj
+		SccProjectName1 = Gushing
+		SccLocalPath1 = Gushing
+		SccProjectUniqueName2 = Gushing.SignalR\\Gushing.SignalR.csproj
+		SccProjectName2 = Gushing.SignalR
+		SccLocalPath2 = Gushing.SignalR
+		SccProjectUniqueName3 = Gushing.Tests\\Gushing.Tests.csproj
+		SccProjectName3 = Gushing.Tests
+		SccLocalPath3 = Gushing.Tests
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81AF1CFD-04D0-4D5A-B8D9-B84FB5488552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AF1CFD-04D0-4D5A-B8D9-B84FB5488552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AF1CFD-04D0-4D5A-B8D9-B84FB5488552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AF1CFD-04D0-4D5A-B8D9-B84FB5488552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69957CFD-C4D8-44F7-AC35-ADDC4A8597E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69957CFD-C4D8-44F7-AC35-ADDC4A8597E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69957CFD-C4D8-44F7-AC35-ADDC4A8597E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69957CFD-C4D8-44F7-AC35-ADDC4A8597E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C80A53C5-0370-4D0F-B438-7AD371B1308E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C80A53C5-0370-4D0F-B438-7AD371B1308E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C80A53C5-0370-4D0F-B438-7AD371B1308E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C80A53C5-0370-4D0F-B438-7AD371B1308E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
