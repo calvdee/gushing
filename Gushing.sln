@@ -8,21 +8,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gushing.Tests", "Gushing.Tests\Gushing.Tests.csproj", "{C80A53C5-0370-4D0F-B438-7AD371B1308E}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 4
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://bs:8080/tfs/internalprojects
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Gushing\\Gushing.csproj
-		SccProjectName1 = Gushing
-		SccLocalPath1 = Gushing
-		SccProjectUniqueName2 = Gushing.SignalR\\Gushing.SignalR.csproj
-		SccProjectName2 = Gushing.SignalR
-		SccLocalPath2 = Gushing.SignalR
-		SccProjectUniqueName3 = Gushing.Tests\\Gushing.Tests.csproj
-		SccProjectName3 = Gushing.Tests
-		SccLocalPath3 = Gushing.Tests
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
